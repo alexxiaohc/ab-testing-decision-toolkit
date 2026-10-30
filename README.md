@@ -6,7 +6,7 @@
 
 > 把实验设计、实验质量检查、统计分析和业务判断组织成一个清晰、可复用的分析流程。
 >
-> link：https://ab-testing-decision-toolkit.onrender.com/?utm_source=chatgpt.com
+> link：https://ab-testing-decision-toolkit.onrender.com/
 
 ## 为什么做这个工具
 
